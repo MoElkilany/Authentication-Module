@@ -1,0 +1,16 @@
+PODS:
+  - AuthenticationModule (1.0.0)
+
+DEPENDENCIES:
+  - AuthenticationModule (from `../AuthenticationModule/`)
+
+EXTERNAL SOURCES:
+  AuthenticationModule:
+    :path: "../AuthenticationModule/"
+
+SPEC CHECKSUMS:
+  AuthenticationModule: d84eba1f952abf3112fa1a77f1c1dc45ec9b2741
+
+PODFILE CHECKSUM: cf70293eca13f8449c1a63455750280612287a42
+
+COCOAPODS: 1.12.1
